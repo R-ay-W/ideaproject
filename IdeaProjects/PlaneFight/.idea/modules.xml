@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar.iml" filepath="$PROJECT_DIR$/PlaneWar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar0.1/PlaneWar0.1.iml" filepath="$PROJECT_DIR$/PlaneWar0.1/PlaneWar0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar0.2/PlaneWar0.2.iml" filepath="$PROJECT_DIR$/PlaneWar0.2/PlaneWar0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar0.3/PlaneWar0.3.iml" filepath="$PROJECT_DIR$/PlaneWar0.3/PlaneWar0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar0.4/PlaneWar0.4.iml" filepath="$PROJECT_DIR$/PlaneWar0.4/PlaneWar0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlaneWar0.5/PlaneWar0.5.iml" filepath="$PROJECT_DIR$/PlaneWar0.5/PlaneWar0.5.iml" />
+    </modules>
+  </component>
+</project>
